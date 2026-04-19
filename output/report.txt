@@ -1,0 +1,13 @@
+
+Stock: PNB
+
+Price: 0
+
+Analysis:
+- Momentum: Bullish
+- PE Ratio: 25
+- PB Ratio: 3
+- Alpha Score: 10.139999999999999
+
+Conclusion:
+High probability multi-bagger (5-10x potential)
